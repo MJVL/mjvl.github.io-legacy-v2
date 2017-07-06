@@ -1,5 +1,53 @@
 @charset "utf-8";
 /* CSS Document */
+@-webkit-keyframes Gradient {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes Gradient {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-o-keyframes Gradient {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes Gradient { 
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes Gradient {
+	 0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+body {
+	background: linear-gradient(270deg, #14df63, #14b1df, #df2814);
+	background-size: 400% 400%;
+	-webkit-animation: Gradient 30s ease infinite;
+	-moz-animation: Gradient 30s ease infinite;
+	-o-animation: Gradient 30s ease infinite;
+	animation: Gradient 30s ease infinite;
+	background-color: silver;
+	color: white;
+	padding: 20px;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
 .info-sec {
-	font-family: Jeboy;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	text-align: center;
+
+}
+.info-sec h1 {
+	
+}
+.info-sec p {
+	
+}
+.info-sec img {
+	padding: 20px;
 }
