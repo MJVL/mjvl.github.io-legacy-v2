@@ -25,9 +25,6 @@
     50%{background-position:100% 50%}
     100%{background-position:0% 50%}
 }
-@font-face { 
-	font-family: 'ADAM.CG PRO'; src: url('fonts/ADAM.CG PRO.otf');
-} 
 body {
 	background: linear-gradient(270deg, #14df63, #14b1df, #df2814);
 	background-size: 400% 400%;
