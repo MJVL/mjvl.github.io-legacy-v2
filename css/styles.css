@@ -20,14 +20,9 @@
     50%{background-position:100% 50%}
     100%{background-position:0% 50%}
 }
-@keyframes Gradient {
-	 0%{background-position:0% 50%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 50%}
-}
 body {
-	background: linear-gradient(270deg, #14df63, #14b1df, #df2814);
-	background-size: 400% 400%;
+	background: linear-gradient(270deg, #b5bf26, #26bf47, #2681bf);
+	background-size: 600% 600%;
 	-webkit-animation: Gradient 30s ease infinite;
 	-moz-animation: Gradient 30s ease infinite;
 	-o-animation: Gradient 30s ease infinite;
