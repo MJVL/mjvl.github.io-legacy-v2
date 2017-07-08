@@ -31,16 +31,16 @@ body {
 	color: white;
 	padding: 20px;
 }
-.info-sec {
+#info-sec {
 	font-family: 'Permanent Marker', cursive;
 	text-align: center;
 }
-.info-sec h1 {
+#info-sec h1 {
 	font-size: 300%;
 }
-.info-sec p {
+#info-sec p {
 	font-size: 200%
 }
-.info-sec img {
+#info-sec img {
 	padding: 20px;
 }
