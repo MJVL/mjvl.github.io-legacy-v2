@@ -3,7 +3,7 @@ This is my personal website. This project will be updated occasionally and has n
 
 ## Pages: 
 In Progress:
-*Home (https://mjvl.github.io/)
+* Home (https://mjvl.github.io/)
 
 Completed:
-*404 (https://mjvl.github.io/404 or https://mjvl.github.io/[any])
+* 404 (https://mjvl.github.io/404 or https://mjvl.github.io/[any])
