@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<meta http-equiv="refresh" content="10; URL='https://mjvl.github.io/'">
+	<meta http-equiv="refresh" content="11; URL='https://mjvl.github.io/'">
 	<title>Page Not Found</title>
 	<link href="/css/404styles.css" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet">
@@ -15,7 +15,23 @@
 	<h1>Congrats, you've broken my website.</h1>
 	<a href="https://mjvl.github.io/">
 	<img src="/images/skeleton.gif" title = "Return Home" alt="Return Home"></a>
-	<p>Returning to safety in 10 seconds.</p>
+	<p id="timer">10</p>
+	<script type="text/javascript">
+	  var s = 11, p;
+	  function countdown() {
+		s = parseInt(s, 10);
+		if (s == 1) {
+		  p = document.getElementById('timer');
+		  p.innerHTML = "Goodbye.";
+		  return;
+		}
+		s--;
+		p = document.getElementById('timer');
+		p.innerHTML = "Returning to safety in " + s + " seconds.";
+		timeoutMyOswego = setTimeout(countdown, 1000);
+	  } 
+	  countdown();
+	</script>
 </div>
 </body>
 </html>
