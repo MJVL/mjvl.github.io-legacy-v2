@@ -17,16 +17,14 @@
 	<img src="/images/skeleton.gif" title = "Return Home" alt="Return Home"></a>
 	<p id="timer">10</p>
 	<script type="text/javascript">
-	  var s = 11, p;
+	  var s = 11;
+	  var p = document.getElementById('timer');
 	  function countdown() {
-		s = parseInt(s, 10);
 		if (s == 1) {
-		  p = document.getElementById('timer');
 		  p.innerHTML = "Goodbye.";
 		  return;
 		}
 		s--;
-		p = document.getElementById('timer');
 		p.innerHTML = "Returning to safety in " + s + " seconds.";
 		timeoutMyOswego = setTimeout(countdown, 1000);
 	  } 
