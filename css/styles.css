@@ -44,3 +44,11 @@ body {
 #info-sec img {
 	padding: 20px;
 }
+#icon-sec {
+    padding: 50px;
+    text-align: center;
+    color: white;
+}
+#icon-sec a{
+    color: white;
+}
