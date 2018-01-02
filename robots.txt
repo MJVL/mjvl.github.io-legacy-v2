@@ -1,0 +1,2 @@
++User-agent: *
++Sitemap: https://mjvl.github.io/sitemap.xml
