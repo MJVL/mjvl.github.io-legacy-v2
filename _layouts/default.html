@@ -33,10 +33,9 @@
 			<ul id="tag-list">
 				<li><a href="/" ><img src="/assets/img/disk.png" />(C:)</a>
 			<ul>
-				{% assign tags = site.tags | sort %}
-				{% for tag in tags %}
-				<li><a href="/tag/{{ tag | first | slugify }}/" title="{{ tag[0] | replace:'-', ' ' }}"><img src="/assets/img/folder.ico" />{{ tag[0] | replace:'-', ' ' }}</a></li>
-				{% endfor %}
+				<li><a href="/tag/tag1/" title="Projects"><img src="/assets/img/folder.ico" /></a></li>
+				<li><a href="/tag/tag2/" title="Resources"><img src="/assets/img/folder.ico" /></a></li>
+				<li><a href="/tag/tag3/" title="Contact Me"><img src="/assets/img/folder.ico" /></a></li>
 			</ul>
 				</li>
 			</ul>
