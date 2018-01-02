@@ -1,10 +1,10 @@
 permalink: /:year:month:day/:title
-url: #Your url here
+url: https://mjvl.github.io/me/
 baseurl: /project
 
 # variables
 name: Michael Van Leeuwen
-description: Personal Website
+description: Hi, I'm Michael Van Leeuwen, a high school senior passionate about computer science and cyber security. In August I'll be an undergrad majoring in Computing Security at the Rochester Institute of Technology.
 google_verification: null
 
 
