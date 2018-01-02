@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "AP Computer Science Resources"
+title: "AP CS Resources"
 tags: tag2
 ---
 ## AP Computer Science Resources
