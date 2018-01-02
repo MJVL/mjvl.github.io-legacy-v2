@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Personal Website"
-tags: tag1
+tags: tag1 tag4
 ---
 ## Personal Website
 
