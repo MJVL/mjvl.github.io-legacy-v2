@@ -3,7 +3,7 @@ layout: default
 title: "AP Computer Science Resources"
 tags: tag2
 ---
-## TutorHub
+## AP Computer Science Resources
 
 Contains all resources for AP CS 17-18 from Mr. Kummer's server (WMHS).
 
