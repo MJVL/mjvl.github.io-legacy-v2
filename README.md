@@ -1,9 +1,11 @@
-# mjvl.github.io
-This is my personal website. This project will be updated occasionally and has no real purpose for now other than to practice HTML and CSS.
+# Windows 95 Theme for Jekyll
 
-## Pages: 
-In Progress:
-* Home (https://mjvl.github.io/)
+![ss](https://github.com/h01000110/windows-95/raw/gh-pages/screenshot_2.png)
 
-Completed:
-* 404 (https://mjvl.github.io/404 or https://mjvl.github.io/[any])
+Homepage: [Windows 95](https://h01000110.github.io/20170917/windows-95)
+
+Demo: [Click here](https://h01000110.github.io/windows-95/)
+
+Author: [h01000110 (hi)](https://github.com/h01000110)
+
+License: [MIT](https://github.com/h01000110/windows-95/blob/master/LICENSE)
