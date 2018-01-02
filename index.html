@@ -1,23 +1,8 @@
-<!doctype html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>Michael Van Leeuwen</title>
-	<link href="/css/styles.css" rel="stylesheet" type="text/css">
-	<link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
-	<link rel="icon" href="/images/favicon.ico" type="image/x-icon">
-</head>
-
-<body> 
-<div id="info-sec">
-	<h1>This site is currently under construction.</h1>
-	<p><i>Stay tuned for upcoming changes.</i></p>
-</div>
-<div id="icon-sec">
-    <a href="https://github.com/MJVL"> <i class="fa fa-github" aria-hidden="true" style="font-size: 150px;"></i></a>
-    <a href="https://www.linkedin.com/in/michael-v-a294a7126/"> <i class="fa fa-linkedin-square" aria-hidden="true" style="font-size: 150px;"></i></a>
-</div>
-</body>
-</html>
+---
+layout: default
+---
+<ul>
+	{% for post in site.posts %}
+	<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
+	{% endfor %}
+</ul>
