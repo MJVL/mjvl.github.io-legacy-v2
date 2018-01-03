@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Fonts and Icons"
+title: "Fonts & Icons"
 tags: tag2
 ---
-## Fonts and Icons
+## Fonts & Icons
 ***
 
 
