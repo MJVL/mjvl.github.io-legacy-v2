@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Email/Accounts"
+title: "Email & Accounts"
 tags: tag3
 ---
-## Email/Accounts
+## Email & Accounts
 ***
 
 
