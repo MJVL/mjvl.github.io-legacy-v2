@@ -7,7 +7,7 @@
 	<meta name="description" content="Hi, I’m Michael Van Leeuwen, a high school senior passionate about computer science and cyber security. In August I’ll be an undergrad majoring in Computing Security at the Rochester Institute of Technology. View my projects and other information here.>
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 	<link rel="stylesheet" href="/assets/css/atom-one-light.css">
-    {% if page.title or page.title == 'Michael Van Leeuwen | About' %}
+    {% if page.title or page.title == 'About | Michael Van Leeuwen' %}
         <title>{{ page.title }}</title>
 		<link rel="stylesheet" type="text/css" href="/assets/css/002.css">
     {% else %}
@@ -49,7 +49,7 @@
 		</div>
 		<div class="post_list">
 			{% unless page.date%}
-				{% if page.title == 'About' or page.title == '404...' %}
+				{% if page.title == 'About | Michael Van Leeuwen' or page.title == '404...' %}
 					<ul>
 						{% for post in site.posts %}
 						<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
