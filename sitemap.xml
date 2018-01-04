@@ -8,47 +8,52 @@
 
 <url>
   <loc>https://mjvl.github.io/</loc>
-  <lastmod>2018-01-02T21:50:49+00:00</lastmod>
+  <lastmod>2018-01-04T21:31:29+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://mjvl.github.io/tag/tag1/</loc>
-  <lastmod>2018-01-02T21:50:49+00:00</lastmod>
+  <lastmod>2018-01-04T21:31:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mjvl.github.io/tag/tag2/</loc>
-  <lastmod>2018-01-02T21:50:49+00:00</lastmod>
+  <lastmod>2018-01-04T21:31:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mjvl.github.io/tag/tag3/</loc>
-  <lastmod>2018-01-02T21:50:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://mjvl.github.io/20180102/personal-website</loc>
-  <lastmod>2018-01-02T21:50:49+00:00</lastmod>
+  <lastmod>2018-01-04T21:31:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mjvl.github.io/20180102/TutorHub</loc>
-  <lastmod>2018-01-02T21:50:49+00:00</lastmod>
+  <lastmod>2018-01-04T21:31:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mjvl.github.io/20180102/Profile-Pic-Generator</loc>
-  <lastmod>2018-01-02T21:50:49+00:00</lastmod>
+  <lastmod>2018-01-04T21:31:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://mjvl.github.io/20180102/Email-Accounts</loc>
-  <lastmod>2018-01-02T21:50:49+00:00</lastmod>
+  <loc>https://mjvl.github.io/20180102/Personal-Website</loc>
+  <lastmod>2018-01-04T21:31:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://mjvl.github.io/20180102/APCS-Resources</loc>
-  <lastmod>2018-01-02T21:50:49+00:00</lastmod>
+  <loc>https://mjvl.github.io/20180102/Fonts-&amp;-Icons</loc>
+  <lastmod>2018-01-04T21:31:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mjvl.github.io/20180102/Email-&amp;-Accounts</loc>
+  <lastmod>2018-01-04T21:31:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mjvl.github.io/20180102/AP-Computer-Science-Resources</loc>
+  <lastmod>2018-01-04T21:31:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 </urlset>

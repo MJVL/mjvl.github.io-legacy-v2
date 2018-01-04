@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Profile Pic Generator"
+title: "Michael Van Leeuwen | Projects | Profile Pic Generator"
 tags: tag1
 ---
 ## [Profile Pic Generator](https://github.com/MJVL/Profile-Pic-Generator "Profile Pic Generator")
