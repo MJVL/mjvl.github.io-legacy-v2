@@ -11,7 +11,7 @@
 		<title>About | Michael Van Leeuwen</title>
 		<link rel="stylesheet" type="text/css" href="/assets/css/002.css">
 	{% elsif page.title %}
-        <title>{{ page.title }}</title>
+        <title>{{ page.title | append: ' | Michael Van Leeuwen' }}</title>
 		<link rel="stylesheet" type="text/css" href="/assets/css/002.css">
     {% else %}
 		<link rel="stylesheet" type="text/css" href="/assets/css/001.css">
