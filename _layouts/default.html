@@ -11,8 +11,16 @@
         <title>{{ page.title }}</title>
 		<link rel="stylesheet" type="text/css" href="/assets/css/002.css">
     {% else %}
-        <title>{{ site.name }}</title>
 		<link rel="stylesheet" type="text/css" href="/assets/css/001.css">
+		{% if page.tag == 'tag1' %}
+				<title>Projects | Michael Van Leeuwen</title>
+			{% elsif page.tag == 'tag2' %}
+				<title>Resources | Michael Van Leeuwen</title>
+			{% elsif page.tag == 'tag3' %}
+				<title>Contact Me | Michael Van Leeuwen</title>
+			{% else %}
+				<title>{{ site.name }}</title>
+			{% endif %}
     {% endif %}
 	<link rel="stylesheet" href="/assets/css/font-awesome.min.css">
 	<link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
