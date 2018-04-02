@@ -7,7 +7,7 @@ tags: tag2
 ***
 
 
-* [Google Fonts](https://www.linkedin.com/in/michael-v-a294a7126/ "LinkedIn") - Collection of easy to integrate, open source fonts.
+* [Google Fonts](https://fonts.google.com/ "Google Fonts") - Collection of easy to integrate, open source fonts.
 
 * [Font Awesome](http://fontawesome.io/ "Font Awesome") - Icon directory with easy web integration.
 
