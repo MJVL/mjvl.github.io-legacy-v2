@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "AP CS Resources"
+title: "Uni Obfuscator"
 tags: tag2
 ---
 ## [UniObfuscator](https://github.com/MJVL/UniObfuscator "UniObfuscator")
