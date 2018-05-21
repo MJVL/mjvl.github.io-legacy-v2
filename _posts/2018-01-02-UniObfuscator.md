@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "UniObfuscator"
-tags: tag2
+tags: tag1
 ---
 ## [UniObfuscator](https://github.com/MJVL/UniObfuscator "UniObfuscator")
 ***
