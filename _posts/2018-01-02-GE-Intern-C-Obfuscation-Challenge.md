@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "GE-Intern-C-Obfuscation-Challenge"
+title: "GE Intern C Obfuscation Challenge"
 tags: tag1
 ---
 ## [GE-Intern-C-Obfuscation-Challenge](https://github.com/vasilescur/GE-Intern-C-Obfuscation-Challenge "GE-Intern-C-Obfuscation-Challenge")
