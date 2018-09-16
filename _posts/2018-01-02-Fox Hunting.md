@@ -3,7 +3,7 @@ layout: default
 title: "Fox Hunting"
 tags: tag1
 ---
-## [AP Computer Science Resources](https://github.com/ritsec "Fox Hunting")
+## [Fox Hunting](https://github.com/ritsec "Fox Hunting")
 ***
 
 
