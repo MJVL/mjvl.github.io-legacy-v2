@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "AP CS Resources"
+title: "Fox Hunting"
 tags: tag1
 ---
 ## [AP Computer Science Resources](https://github.com/ritsec "Fox Hunting")
