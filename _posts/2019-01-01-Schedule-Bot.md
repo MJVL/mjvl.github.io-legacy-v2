@@ -3,10 +3,10 @@ layout: default
 title: "Schedule-Bot"
 tags: tag1
 ---
-## [Noun.js](https://github.com/ThirtyEightySeven/Schedule-Bot "Schedule-Bot")
+## [Schedule-Bot](https://github.com/ThirtyEightySeven/Schedule-Bot "Schedule-Bot")
 ***
 
-Discord bbot that holds each user's schedule (using Python's pickle), consisting of classes and events, to find free times across users.
+Discord bot that holds each user's schedule (using Python's pickle), consisting of classes and events, to find free times across users.
 
 Commands
 |Command|Description|
