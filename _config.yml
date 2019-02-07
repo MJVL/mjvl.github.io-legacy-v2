@@ -1,6 +1,5 @@
 permalink: /:year:month:day/:title
 url: https://mjvl.github.io/
-baseurl: /project
 
 # variables
 name: Michael Van Leeuwen
