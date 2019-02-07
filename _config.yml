@@ -4,10 +4,13 @@ baseurl: /project
 
 # variables
 name: Michael Van Leeuwen
-description: Hi, I'm Michael Van Leeuwen, a high school senior passionate about computer science and cyber security. In August I'll be an undergrad majoring in Computing Security at the Rochester Institute of Technology.
-title: Michael Van Leeuwen
+author: Michael Van Leeuwen
+description: Hi, I’m Michael Van Leeuwen, a freshman majoring in Computing Security at the Rochester Institute of Technology. In my free time I intern, tutor peers, compete in challenges (CTF, Mystery Coding, etc.), learn new programming languages, and participate in various other clubs and activities. This site contains various projects of mine, helpful resources, and links to contact me. Projects will only be updated occasionally and don't include most of mine (private for now).title: Michael Van Leeuwen
 google_verification: null
-
+social:
+  name: Michael Van Leeuwen
+    - https://www.linkedin.com/in/michael-v-a294a7126/
+    - https://github.com/MJVL
 
 # File management
 include: [".htaccess"]
