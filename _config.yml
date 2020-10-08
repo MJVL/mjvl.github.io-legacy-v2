@@ -1,14 +1,14 @@
 permalink: /:year:month:day/:title
-url: https://mjvl.github.io
+url: mjvl.github.io/mjvl.github.io-legacy-v2
 
 # variables
 name: Michael Van Leeuwen
 author: Michael Van Leeuwen
-description: Hi, I’m Michael Van Leeuwen, a freshman majoring in Computing Security at the Rochester Institute of Technology. In my free time I intern, tutor peers, compete in challenges (CTF, Mystery Coding, etc.), learn new programming languages, and participate in various other clubs and activities. This site contains various projects of mine, helpful resources, and links to contact me. Projects will only be updated occasionally and don't include most of mine (private for now).
+description: Hi, I’m Michael Van Leeuwen! You found my old website, congrats! Please visit mjvl.sh.
 google_verification: pLVpf79Qx0cJDljEYYxtY1cBldk8fD2H8iBeeeEQRso
 social:
   name: Michael Van Leeuwen
-    - https://www.linkedin.com/in/michael-v-a294a7126/
+    - https://www.linkedin.com/in/mjvl
     - https://github.com/MJVL
 
 # File management
